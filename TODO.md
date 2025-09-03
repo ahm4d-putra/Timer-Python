@@ -1,0 +1,2 @@
+- [x] Add soft background color to main window and frames in study_time.py
+- [x] Test the app to ensure UI is visible and functional
